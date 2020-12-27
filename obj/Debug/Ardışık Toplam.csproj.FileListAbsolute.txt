@@ -1,0 +1,10 @@
+O:\Udemy\Udemy C# Örnekleri\Ardışık Toplam\Ardışık Toplam\bin\Debug\Ardışık Toplam.exe.config
+O:\Udemy\Udemy C# Örnekleri\Ardışık Toplam\Ardışık Toplam\bin\Debug\Ardışık Toplam.exe
+O:\Udemy\Udemy C# Örnekleri\Ardışık Toplam\Ardışık Toplam\bin\Debug\Ardışık Toplam.pdb
+O:\Udemy\Udemy C# Örnekleri\Ardışık Toplam\Ardışık Toplam\obj\Debug\Ardışık Toplam.csprojAssemblyReference.cache
+O:\Udemy\Udemy C# Örnekleri\Ardışık Toplam\Ardışık Toplam\obj\Debug\Ardışık_Toplam.Form1.resources
+O:\Udemy\Udemy C# Örnekleri\Ardışık Toplam\Ardışık Toplam\obj\Debug\Ardışık_Toplam.Properties.Resources.resources
+O:\Udemy\Udemy C# Örnekleri\Ardışık Toplam\Ardışık Toplam\obj\Debug\Ardışık Toplam.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Örnekleri\Ardışık Toplam\Ardışık Toplam\obj\Debug\Ardışık Toplam.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Örnekleri\Ardışık Toplam\Ardışık Toplam\obj\Debug\Ardışık Toplam.exe
+O:\Udemy\Udemy C# Örnekleri\Ardışık Toplam\Ardışık Toplam\obj\Debug\Ardışık Toplam.pdb
